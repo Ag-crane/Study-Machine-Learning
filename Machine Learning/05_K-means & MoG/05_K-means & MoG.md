@@ -56,7 +56,7 @@ plt.scatter(X[:,0],X[:,1],s = 1, c = [0.5, 0.5, 0.5])
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_0_2.png)
+![png](./images/05_K-means%20%26%20MoG_0_2.png)
     
 
 
@@ -112,13 +112,13 @@ for k in range(0,K):
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_1_0.png)
+![png](./images/05_K-means%20%26%20MoG_1_0.png)
     
 
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_1_1.png)
+![png](./images/05_K-means%20%26%20MoG_1_1.png)
     
 
 
@@ -167,7 +167,7 @@ plt.ylim([np.min(X[:,1]),np.max(X[:,1])])
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_2_1.png)
+![png](./images/05_K-means%20%26%20MoG_2_1.png)
     
 
 
@@ -219,13 +219,13 @@ for k in range(0,K):
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_3_0.png)
+![png](./images/05_K-means%20%26%20MoG_3_0.png)
     
 
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_3_1.png)
+![png](./images/05_K-means%20%26%20MoG_3_1.png)
     
 
 
@@ -292,6 +292,6 @@ plt.show()
 
 
     
-![png](05_K-means%20%26%20MoG_files/05_K-means%20%26%20MoG_4_0.png)
+![png](./images/05_K-means%20%26%20MoG_4_0.png)
     
 

@@ -59,7 +59,7 @@ plt.tight_layout()
 
 
     
-![png](HW04%20%28solution%29_files/HW04%20%28solution%29_2_0.png)
+![png](./images/HW04%20%28solution)_2_0.png)
     
 
 
@@ -134,6 +134,6 @@ plt.savefig('result.eps')
 
 
     
-![png](HW04%20%28solution%29_files/HW04%20%28solution%29_3_1.png)
+![png](./images/HW04%20%28solution)_3_1.png)
     
 

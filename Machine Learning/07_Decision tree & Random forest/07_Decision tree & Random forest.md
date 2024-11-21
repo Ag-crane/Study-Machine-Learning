@@ -91,7 +91,7 @@ print(X_train.shape, X_test.shape)
 
 
     
-![png](07_Decision%20tree%20%26%20Random%20forest_files/07_Decision%20tree%20%26%20Random%20forest_0_2.png)
+![png](./images/07_Decision%20tree%20%26%20Random%20forest_0_2.png)
     
 
 
@@ -126,7 +126,7 @@ plt.plot(score_silhouette,'o-')
 
 
     
-![png](07_Decision%20tree%20%26%20Random%20forest_files/07_Decision%20tree%20%26%20Random%20forest_1_1.png)
+![png](./images/07_Decision%20tree%20%26%20Random%20forest_1_1.png)
     
 
 
@@ -163,7 +163,7 @@ Image(graph.create_png())
 
 
     
-![png](07_Decision%20tree%20%26%20Random%20forest_files/07_Decision%20tree%20%26%20Random%20forest_3_0.png)
+![png](./images/07_Decision%20tree%20%26%20Random%20forest_3_0.png)
     
 
 
@@ -211,6 +211,6 @@ plt.plot(numlist_ensemble ,accuracy_test, 'o-')
 
 
     
-![png](07_Decision%20tree%20%26%20Random%20forest_files/07_Decision%20tree%20%26%20Random%20forest_4_2.png)
+![png](./images/07_Decision%20tree%20%26%20Random%20forest_4_2.png)
     
 

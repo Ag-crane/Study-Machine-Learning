@@ -23,7 +23,7 @@ ax.set_aspect('equal')
 
 
     
-![png](08_PCA/images/08_PCA_0_1.png)
+![png](./images/08_PCA_0_1.png)
     
 
 
@@ -73,7 +73,7 @@ plt.plot([0, s2*u2[0]], [0, s2*u2[1]])   # 원점~u2, s2로 스케일해서
 
 
     
-![png](08_PCA/images/08_PCA_1_2.png)
+![png](./images/08_PCA_1_2.png)
     
 
 
@@ -169,7 +169,7 @@ plt.plot(dimlist, accuracy_test, 'o-')
 
 
     
-![png](08_PCA/images/08_PCA_3_2.png)
+![png](./images/08_PCA_3_2.png)
     
 
 
@@ -231,6 +231,6 @@ plt.plot(dimlist, accuracy_test, 'o-')
 
 
     
-![png](08_PCA/images/08_PCA_4_2.png)
+![png](./images/08_PCA_4_2.png)
     
 

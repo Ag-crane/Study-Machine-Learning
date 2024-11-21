@@ -44,7 +44,7 @@ plt.plot(X_plot[:,1] , y_plot) #전체 입력을 10개의 구간으로 쪼개고
 
 
     
-![png](02_Linear%20Regression_files/02_Linear%20Regression_0_2.png)
+![png](./images/02_Linear%20Regression_0_2.png)
     
 
 
@@ -121,7 +121,7 @@ plt.plot(X_plot[:,1], y_plot) # 전체 입력을 잘게 쪼개서, 전체 예측
 
 
     
-![png](02_Linear%20Regression_files/02_Linear%20Regression_1_2.png)
+![png](./images/02_Linear%20Regression_1_2.png)
     
 
 
@@ -181,7 +181,7 @@ for epoch in range(maxEpoch):
 
 
     
-![png](02_Linear%20Regression_files/02_Linear%20Regression_2_1.png)
+![png](./images/02_Linear%20Regression_2_1.png)
     
 
 
@@ -225,13 +225,13 @@ plt.plot(SSE)
 
 
     
-![png](02_Linear%20Regression_files/02_Linear%20Regression_3_1.png)
+![png](./images/02_Linear%20Regression_3_1.png)
     
 
 
 
     
-![png](02_Linear%20Regression_files/02_Linear%20Regression_3_2.png)
+![png](./images/02_Linear%20Regression_3_2.png)
     
 
 

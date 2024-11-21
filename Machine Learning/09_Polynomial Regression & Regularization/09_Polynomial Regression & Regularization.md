@@ -28,7 +28,7 @@ plt.scatter(x,y,s = 10, c = 'gray')
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_0_2.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_0_2.png)
     
 
 
@@ -90,133 +90,133 @@ plt.xlabel('polynomial')
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_2.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_2.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_3.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_3.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_4.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_4.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_5.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_5.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_6.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_6.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_7.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_7.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_8.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_8.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_9.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_9.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_10.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_10.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_11.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_11.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_12.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_12.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_13.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_13.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_14.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_14.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_15.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_15.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_16.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_16.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_17.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_17.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_18.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_18.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_19.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_19.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_20.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_20.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_21.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_21.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_22.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_22.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_1_23.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_1_23.png)
     
 
 
@@ -290,18 +290,18 @@ plt.scatter(x,y_lasso,s = 10, c = 'red')
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_2_3.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_2_3.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_2_4.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_2_4.png)
     
 
 
 
     
-![png](09_Polynomial%20Regression%20%26%20Regularization_files/09_Polynomial%20Regression%20%26%20Regularization_2_5.png)
+![png](./images/09_Polynomial%20Regression%20%26%20Regularization_2_5.png)
     
 

@@ -135,67 +135,67 @@ plt.plot(cost)
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_1.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_1.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_2.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_2.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_3.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_3.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_4.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_4.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_5.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_5.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_6.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_6.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_7.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_7.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_8.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_8.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_9.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_9.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_10.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_10.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_11.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_3_11.png)
     
 
 
@@ -279,7 +279,7 @@ drawLogistic(w, x, y_pred, t)
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_6_0.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_6_0.png)
     
 
 
@@ -337,72 +337,72 @@ plt.plot(cost)
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_1.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_1.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_2.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_2.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_3.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_3.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_4.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_4.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_5.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_5.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_6.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_6.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_7.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_7.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_8.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_8.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_9.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_9.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_10.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_10.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_11.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_11.png)
     
 
 
 
     
-![png](03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_files/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_12.png)
+![png](./images/03_Linear%20classification_Perceptron%20%26%20Logistic%20regression_7_12.png)
     
 

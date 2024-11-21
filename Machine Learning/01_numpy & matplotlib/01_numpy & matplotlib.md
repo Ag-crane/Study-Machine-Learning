@@ -74,7 +74,7 @@ plt.scatter(Y[:,0],Y[:,1])
 
 
     
-![png](01_numpy%20%26%20matplotlib_files/01_numpy%20%26%20matplotlib_4_1.png)
+![png](./images/01_numpy%20%26%20matplotlib_4_1.png)
     
 
 
@@ -164,7 +164,7 @@ plt.scatter(z[0], z[1], marker = 'x', facecolor = 'r')                         #
 
 
     
-![png](01_numpy%20%26%20matplotlib_files/01_numpy%20%26%20matplotlib_7_1.png)
+![png](./images/01_numpy%20%26%20matplotlib_7_1.png)
     
 
 

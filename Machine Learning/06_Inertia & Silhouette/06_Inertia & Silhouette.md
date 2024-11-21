@@ -44,7 +44,7 @@ N,D = X.shape
 
 
     
-![png](06_Inertia%20%26%20Silhouette_files/06_Inertia%20%26%20Silhouette_0_0.png)
+![png](./images/06_Inertia%20%26%20Silhouette_0_0.png)
     
 
 
@@ -144,12 +144,12 @@ plt.plot(s_score)
 
 
     
-![png](06_Inertia%20%26%20Silhouette_files/06_Inertia%20%26%20Silhouette_2_2.png)
+![png](./images/06_Inertia%20%26%20Silhouette_2_2.png)
     
 
 
 
     
-![png](06_Inertia%20%26%20Silhouette_files/06_Inertia%20%26%20Silhouette_2_3.png)
+![png](./images/06_Inertia%20%26%20Silhouette_2_3.png)
     
 
