@@ -270,6 +270,6 @@ print('The Answer is ', np.argmax(model.predict(x_test[n]), axis = -1))
 
 
     
-![png](11_CNN_files/11_CNN_3_1.png)
+![png](11_CNN/images/11_CNN_3_1.png)
     
 

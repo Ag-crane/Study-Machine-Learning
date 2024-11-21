@@ -177,7 +177,7 @@ plt.tight_layout()
 
 
     
-![png](04_sklearn_files/04_sklearn_3_0.png)
+![png](04_sklearn/images/04_sklearn_3_0.png)
     
 
 

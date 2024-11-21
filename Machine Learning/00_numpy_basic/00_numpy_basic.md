@@ -209,12 +209,12 @@ plt.scatter(x,z)
 
 
     
-![png](00_numpy_basic_files/00_numpy_basic_9_1.png)
+![png](00_numpy_basic/images/00_numpy_basic_9_1.png)
     
 
 
 
     
-![png](00_numpy_basic_files/00_numpy_basic_9_2.png)
+![png](00_numpy_basic/images/00_numpy_basic_9_2.png)
     
 
